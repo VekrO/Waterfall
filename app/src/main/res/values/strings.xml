@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Waterfall</string>
+    <string name="lembrete">Lembrete</string>
+    <string name="calcular_ingest_o_di_ria">Calcular Ingestão Diária</string>
+    <string name="_00_00">00:00</string>
+    <string name="alarme">Alarme</string>
+    <string name="digite_seu_peso_kg">Digite seu Peso (KG)</string>
+    <string name="resultado">Resultado</string>
+    <string name="redefinir">Redefinir</string>
+    <string name="digite_sua_idade">Digite sua idade</string>
+    <string name="hor_rio_selecionado">Horário Selecionado</string>
+    <string name="calcular">Calcular</string>
+    <string name="_00">00</string>
+    <string name="todo">TODO</string>
+    <string name="resultado2">Resultado</string>
+</resources>
